@@ -1,0 +1,17 @@
+room_id,hotel_id,room_type,min_capacity,max_capacity,amenities
+R1,H1,Deluxe,1,2,"WiFi, TV, Private Pool, Breakfast"
+R2,H1,Standard,1,2,"WiFi, Breakfast"
+R3,H1,Suite,1,4,"WiFi, TV, Breakfast"
+R4,H1,Single,1,1,WiFi
+R5,H2,Deluxe,1,2,"WiFi, TV, Private Pool, Breakfast"
+R6,H2,Standard,1,2,"WiFi, Breakfast"
+R7,H2,Suite,1,4,"WiFi, TV, Breakfast"
+R8,H2,Single,1,1,WiFi
+R9,H3,Deluxe,1,2,"WiFi, TV, Private Pool, Breakfast"
+R10,H3,Standard,1,2,"WiFi, Breakfast"
+R11,H3,Suite,1,4,"WiFi, TV, Breakfast"
+R12,H4,Single,1,1,WiFi
+R13,H4,Deluxe,1,2,"WiFi, TV, Private Pool, Breakfast"
+R14,H4,Standard,1,2,"WiFi, Breakfast"
+R15,H4,Suite,1,4,"WiFi, TV, Breakfast"
+R16,H4,Single,1,1,WiFi

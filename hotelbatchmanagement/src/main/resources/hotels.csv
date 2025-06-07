@@ -1,0 +1,5 @@
+hotel_id,hotel_name,description,address,city_id,rating
+H1,Grand Palace,5-star luxury hotel,"345 Jew Street, Kochi",C1,4.7
+H2,Sunset Hotel,Budget-friendly hotel,"456 Sunset Blvd, Kochi",C1,3.8
+H3,Bogainville Resorts,Business-class hotel,"789 Cental St, Trivandrum",C2,4.2
+H4,Blue Ray Hotel,Traditional Kerala inn,"101 Kazhakootam, Trivandrum",C2,4.5
