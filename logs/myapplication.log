@@ -1,0 +1,1117 @@
+time:2025-04-24 16:19:47.543	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HotelappApplicationTests                	host:localhost	message:Starting HotelappApplicationTests using Java 17.0.2 with PID 19952 (started by 207554 in C:\Users\207554\Downloads\hotelmanagement\hotelapp)
+time:2025-04-24 16:19:47.602	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HotelappApplicationTests                	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-24 16:19:53.071	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Starting...
+time:2025-04-24 16:19:53.475	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HikariPool                              	host:localhost	message:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2adc1e84
+time:2025-04-24 16:19:53.482	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Start completed.
+time:2025-04-24 16:19:53.534	severity:WARN 	span:[,,]	pid: 	thread:[           main]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-24 16:19:55.683	severity:WARN 	span:[,,]	pid: 	thread:[           main]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-24 16:19:58.665	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HotelappApplicationTests                	host:localhost	message:Started HotelappApplicationTests in 12.408 seconds (process running for 15.626)
+time:2025-04-24 16:20:00.072	severity:INFO 	span:[,,]	pid: 	thread:[ionShutdownHook]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown initiated...
+time:2025-04-24 16:20:00.100	severity:INFO 	span:[,,]	pid: 	thread:[ionShutdownHook]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown completed.
+time:2025-04-24 16:20:17.142	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Starting HotelappApplication using Java 17.0.2 with PID 18196 (C:\Users\207554\Downloads\hotelmanagement\hotelapp\target\classes started by 207554 in C:\Users\207554\Downloads\hotelmanagement\hotelapp)
+time:2025-04-24 16:20:17.173	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-24 16:20:20.180	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Starting...
+time:2025-04-24 16:20:20.436	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariPool                              	host:localhost	message:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@32ee2b8a
+time:2025-04-24 16:20:20.438	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Start completed.
+time:2025-04-24 16:20:20.477	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-24 16:20:22.128	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-24 16:20:23.643	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Started HotelappApplication in 7.424 seconds (process running for 9.215)
+time:2025-04-24 16:22:42.548	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Received chat request: Find hotels in trivandrum from 04-28-2025 to 04-29-2025, guestId: null
+time:2025-04-24 16:22:42.558	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Searching hotels in trivandrum from 04-28-2025 to 04-29-2025
+time:2025-04-24 16:22:42.559	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Searching hotels in TRIVANDRUM from 04-28-2025 to 04-29-2025
+time:2025-04-24 16:22:43.829	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Formatting response for 2 hotels
+time:2025-04-24 16:24:40.204	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Received chat request: Register guest name anna shibu email annashibu.2000@gmail.com phone 8921268260, guestId: null
+time:2025-04-24 16:24:40.205	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Processing registration request for email: annashibu.2000@gmail.com
+time:2025-04-24 16:24:40.206	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Received guest registration request for email: annashibu.2000@gmail.com
+time:2025-04-24 16:24:40.647	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists
+time:2025-04-24 16:24:40.648	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists with ID: 1
+time:2025-04-24 16:27:06.058	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel blue ray hotel room suite in trivandrum from 04-28-2025 to 04-29-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0, guestId: null
+time:2025-04-24 16:27:06.060	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: blue ray hotel in city: trivandrum
+time:2025-04-24 16:27:06.060	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: BLUE RAY HOTEL in city: TRIVANDRUM
+time:2025-04-24 16:27:06.839	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelappController                      	host:localhost	message:Reservation created successfully for hotel: BLUE RAY HOTEL in city: TRIVANDRUM
+time:2025-04-24 16:27:06.839	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Booking successful for hotel: blue ray hotel, reservation ID: 45
+time:2025-04-24 16:31:16.618	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel blue ray hotel room standard in trivandrum from 04-28-2025 to 04-29-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 1, guestId: null
+time:2025-04-24 16:31:16.621	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: blue ray hotel in city: trivandrum
+time:2025-04-24 16:31:16.621	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: BLUE RAY HOTEL in city: TRIVANDRUM
+time:2025-04-24 16:31:16.831	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelappController                      	host:localhost	message:Reservation created successfully for hotel: BLUE RAY HOTEL in city: TRIVANDRUM
+time:2025-04-24 16:31:16.832	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Booking successful for hotel: blue ray hotel, reservation ID: 46
+time:2025-04-24 16:38:10.924	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelChatController                     	host:localhost	message:Received chat request: Find hotels in pathanamthitta from 04-28-2025 to 04-29-2025, guestId: null
+time:2025-04-24 16:38:10.926	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelChatController                     	host:localhost	message:Searching hotels in pathanamthitta from 04-28-2025 to 04-29-2025
+time:2025-04-24 16:38:10.927	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelappController                      	host:localhost	message:Searching hotels in PATHANAMTHITTA from 04-28-2025 to 04-29-2025
+time:2025-04-24 16:38:10.989	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelChatController                     	host:localhost	message:Error formatting dates for search request: [500] during [GET] to [http://localhost:8081/hotelAvailability/hotelSearch?cityName=PATHANAMTHITTA&checkInDate=04-28-2025&checkOutDate=04-29-2025] [HotelAvailabilityClient#findAvailableHotelsWithRooms(String,String,String)]: [{"timestamp":"2025-04-24T11:08:10.969+00:00","status":500,"error":"Internal Server Error","path":"/hotelAvailability/hotelSearch"}]
+feign.FeignException$InternalServerError: [500] during [GET] to [http://localhost:8081/hotelAvailability/hotelSearch?cityName=PATHANAMTHITTA&checkInDate=04-28-2025&checkOutDate=04-29-2025] [HotelAvailabilityClient#findAvailableHotelsWithRooms(String,String,String)]: [{"timestamp":"2025-04-24T11:08:10.969+00:00","status":500,"error":"Internal Server Error","path":"/hotelAvailability/hotelSearch"}]
+	at feign.FeignException.serverErrorStatus(FeignException.java:281) ~[feign-core-13.5.jar:?]
+	at feign.FeignException.errorStatus(FeignException.java:226) ~[feign-core-13.5.jar:?]
+	at feign.FeignException.errorStatus(FeignException.java:213) ~[feign-core-13.5.jar:?]
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:103) ~[feign-core-13.5.jar:?]
+	at feign.InvocationContext.decodeError(InvocationContext.java:133) ~[feign-core-13.5.jar:?]
+	at feign.InvocationContext.proceed(InvocationContext.java:80) ~[feign-core-13.5.jar:?]
+	at feign.ResponseHandler.handleResponse(ResponseHandler.java:69) ~[feign-core-13.5.jar:?]
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:109) ~[feign-core-13.5.jar:?]
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:53) ~[feign-core-13.5.jar:?]
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:104) ~[feign-core-13.5.jar:?]
+	at jdk.proxy4/jdk.proxy4.$Proxy136.findAvailableHotelsWithRooms(Unknown Source) ~[?:?]
+	at com.ibsplc.hotelapp.controller.HotelappController.searchHotels(HotelappController.java:53) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:45) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-24 16:50:56.736	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-5]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown initiated...
+time:2025-04-24 16:50:56.740	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-5]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown completed.
+time:2025-04-24 16:50:56.944	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Starting HotelappApplication using Java 17.0.2 with PID 18196 (C:\Users\207554\Downloads\hotelmanagement\hotelapp\target\classes started by 207554 in C:\Users\207554\Downloads\hotelmanagement\hotelapp)
+time:2025-04-24 16:50:56.944	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-24 16:50:57.179	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Starting...
+time:2025-04-24 16:50:57.235	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariPool                              	host:localhost	message:HikariPool-2 - Added connection org.postgresql.jdbc.PgConnection@55df7875
+time:2025-04-24 16:50:57.236	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Start completed.
+time:2025-04-24 16:50:57.241	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-24 16:50:57.332	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-24 16:50:57.745	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Started HotelappApplication in 0.952 seconds (process running for 1843.317)
+time:2025-04-24 16:52:11.778	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Received chat request: View my reservations email annashibu.2000@gmail.com phone 8833777002, guestId: null
+time:2025-04-24 16:52:11.783	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Fetching reservations for email: annashibu.2000@gmail.com and phone: 8833777002
+time:2025-04-24 16:52:11.783	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Received request to fetch reservations for email: annashibu.2000@gmail.com and phone: 8833777002
+time:2025-04-24 16:52:11.841	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Failed to fetch reservations for email annashibu.2000@gmail.com and phone 8833777002: [400] during [GET] to [http://localhost:8080/hotelBooking/reservationsByGuest?email=annashibu.2000%40gmail.com&phone=8833777002] [HotelReservationClient#getReservationsByGuest(String,String)]: [{"status":"BAD_REQUEST","message":"Invalid request parameters","details":"Check the provided input values","timestamp":"2025-04-24T16:52:11.8249103","errorCode":"ARGUMENT_001"}]
+feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:8080/hotelBooking/reservationsByGuest?email=annashibu.2000%40gmail.com&phone=8833777002] [HotelReservationClient#getReservationsByGuest(String,String)]: [{"status":"BAD_REQUEST","message":"Invalid request parameters","details":"Check the provided input values","timestamp":"2025-04-24T16:52:11.8249103","errorCode":"ARGUMENT_001"}]
+	at feign.FeignException.clientErrorStatus(FeignException.java:243) ~[feign-core-13.5.jar:?]
+	at feign.FeignException.errorStatus(FeignException.java:223) ~[feign-core-13.5.jar:?]
+	at feign.FeignException.errorStatus(FeignException.java:213) ~[feign-core-13.5.jar:?]
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:103) ~[feign-core-13.5.jar:?]
+	at feign.InvocationContext.decodeError(InvocationContext.java:133) ~[feign-core-13.5.jar:?]
+	at feign.InvocationContext.proceed(InvocationContext.java:80) ~[feign-core-13.5.jar:?]
+	at feign.ResponseHandler.handleResponse(ResponseHandler.java:69) ~[feign-core-13.5.jar:?]
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:109) ~[feign-core-13.5.jar:?]
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:53) ~[feign-core-13.5.jar:?]
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:104) ~[feign-core-13.5.jar:?]
+	at jdk.proxy5/jdk.proxy5.$Proxy156.getReservationsByGuest(Unknown Source) ~[?:?]
+	at com.ibsplc.hotelapp.controller.HotelappController.getReservationsByGuest(HotelappController.java:182) [classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:125) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-24 16:52:11.845	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Error retrieving reservations for email annashibu.2000@gmail.com and phone 8833777002: 503 SERVICE_UNAVAILABLE "Reservation service is unavailable."
+org.springframework.web.server.ResponseStatusException: 503 SERVICE_UNAVAILABLE "Reservation service is unavailable."
+	at com.ibsplc.hotelapp.controller.HotelappController.getReservationsByGuest(HotelappController.java:187) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:125) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-24 16:55:09.158	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-9]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Shutdown initiated...
+time:2025-04-24 16:55:09.161	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-9]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Shutdown completed.
+time:2025-04-24 16:55:09.371	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Starting HotelappApplication using Java 17.0.2 with PID 18196 (C:\Users\207554\Downloads\hotelmanagement\hotelapp\target\classes started by 207554 in C:\Users\207554\Downloads\hotelmanagement\hotelapp)
+time:2025-04-24 16:55:09.372	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-24 16:55:09.583	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-3 - Starting...
+time:2025-04-24 16:55:09.643	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariPool                              	host:localhost	message:HikariPool-3 - Added connection org.postgresql.jdbc.PgConnection@214f4dd3
+time:2025-04-24 16:55:09.644	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-3 - Start completed.
+time:2025-04-24 16:55:09.650	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-24 16:55:09.754	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-24 16:55:10.203	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Started HotelappApplication in 0.989 seconds (process running for 2095.776)
+time:2025-04-24 16:55:29.066	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Received chat request: View my reservations email annashibu.2000@gmail.com phone 8833777002, guestId: null
+time:2025-04-24 16:55:29.066	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Fetching reservations for email: annashibu.2000@gmail.com and phone: 8833777002
+time:2025-04-24 16:55:29.066	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Received request to fetch reservations for email: annashibu.2000@gmail.com and phone: 8833777002
+time:2025-04-24 16:55:29.096	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Failed to fetch reservations for email annashibu.2000@gmail.com and phone 8833777002: [400] during [GET] to [http://localhost:8080/hotelBooking/reservationsByGuest?email=annashibu.2000%40gmail.com&phone=8833777002] [HotelReservationClient#getReservationsByGuest(String,String)]: [{"status":"BAD_REQUEST","message":"Invalid request parameters","details":"Check the provided input values","timestamp":"2025-04-24T16:55:29.0938135","errorCode":"ARGUMENT_001"}]
+feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:8080/hotelBooking/reservationsByGuest?email=annashibu.2000%40gmail.com&phone=8833777002] [HotelReservationClient#getReservationsByGuest(String,String)]: [{"status":"BAD_REQUEST","message":"Invalid request parameters","details":"Check the provided input values","timestamp":"2025-04-24T16:55:29.0938135","errorCode":"ARGUMENT_001"}]
+	at feign.FeignException.clientErrorStatus(FeignException.java:243) ~[feign-core-13.5.jar:?]
+	at feign.FeignException.errorStatus(FeignException.java:223) ~[feign-core-13.5.jar:?]
+	at feign.FeignException.errorStatus(FeignException.java:213) ~[feign-core-13.5.jar:?]
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:103) ~[feign-core-13.5.jar:?]
+	at feign.InvocationContext.decodeError(InvocationContext.java:133) ~[feign-core-13.5.jar:?]
+	at feign.InvocationContext.proceed(InvocationContext.java:80) ~[feign-core-13.5.jar:?]
+	at feign.ResponseHandler.handleResponse(ResponseHandler.java:69) ~[feign-core-13.5.jar:?]
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:109) ~[feign-core-13.5.jar:?]
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:53) ~[feign-core-13.5.jar:?]
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:104) ~[feign-core-13.5.jar:?]
+	at jdk.proxy6/jdk.proxy6.$Proxy163.getReservationsByGuest(Unknown Source) ~[?:?]
+	at com.ibsplc.hotelapp.controller.HotelappController.getReservationsByGuest(HotelappController.java:182) [classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:125) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-24 16:55:29.098	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Error retrieving reservations for email annashibu.2000@gmail.com and phone 8833777002: 503 SERVICE_UNAVAILABLE "Reservation service is unavailable."
+org.springframework.web.server.ResponseStatusException: 503 SERVICE_UNAVAILABLE "Reservation service is unavailable."
+	at com.ibsplc.hotelapp.controller.HotelappController.getReservationsByGuest(HotelappController.java:187) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:125) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-24 17:00:31.230	severity:INFO 	span:[,,]	pid: 	thread:[n(42)-127.0.0.1]	class:HikariDataSource                        	host:localhost	message:HikariPool-3 - Shutdown initiated...
+time:2025-04-24 17:00:31.233	severity:INFO 	span:[,,]	pid: 	thread:[n(42)-127.0.0.1]	class:HikariDataSource                        	host:localhost	message:HikariPool-3 - Shutdown completed.
+time:2025-04-28 13:09:39.101	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Starting HotelappApplication using Java 17.0.2 with PID 5420 (C:\Users\207606\Documents\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp\target\classes started by 207606 in C:\Users\207606\Documents\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp)
+time:2025-04-28 13:09:39.142	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-28 13:09:42.994	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Starting...
+time:2025-04-28 13:09:43.695	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariPool                              	host:localhost	message:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@23f96aab
+time:2025-04-28 13:09:43.699	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Start completed.
+time:2025-04-28 13:09:43.807	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-28 13:09:46.829	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-28 13:09:46.887	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:OptionalLiveReloadServer                	host:localhost	message:Unable to start LiveReload server
+time:2025-04-28 13:09:49.056	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Started HotelappApplication in 11.31 seconds (process running for 13.275)
+time:2025-04-28 14:22:39.731	severity:WARN 	span:[,,]	pid: 	thread:[l-1 housekeeper]	class:HikariPool                              	host:localhost	message:HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h8m36s450ms315µs700ns).
+time:2025-04-28 15:10:39.696	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Received chat request: Register guest name book a ticket for 2 passengers in business class for flightid 5 book a ticket for 2 passengers in business class for flightid 5 email sneharani687@gmail.com phone 9074544282, guestId: null
+time:2025-04-28 15:10:39.700	severity:WARN 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Invalid booking request: unable to parse message: Register guest name book a ticket for 2 passengers in business class for flightid 5 book a ticket for 2 passengers in business class for flightid 5 email sneharani687@gmail.com phone 9074544282
+time:2025-04-28 15:13:24.918	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Received chat request: Find hotels in grand palace from 05-12-2025 to 05-13-2025, guestId: null
+time:2025-04-28 15:13:24.921	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Searching hotels in grand palace from 05-12-2025 to 05-13-2025
+time:2025-04-28 15:13:24.922	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Searching hotels in GRAND PALACE from 05-12-2025 to 05-13-2025
+time:2025-04-28 15:13:25.171	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Error formatting dates for search request: [500] during [GET] to [http://localhost:8084/hotelAvailability/hotelSearch?cityName=GRAND%20PALACE&checkInDate=05-12-2025&checkOutDate=05-13-2025] [HotelAvailabilityClient#findAvailableHotelsWithRooms(String,String,String)]: [{"timestamp":"2025-04-28T09:43:25.148+00:00","status":500,"error":"Internal Server Error","path":"/hotelAvailability/hotelSearch"}]
+feign.FeignException$InternalServerError: [500] during [GET] to [http://localhost:8084/hotelAvailability/hotelSearch?cityName=GRAND%20PALACE&checkInDate=05-12-2025&checkOutDate=05-13-2025] [HotelAvailabilityClient#findAvailableHotelsWithRooms(String,String,String)]: [{"timestamp":"2025-04-28T09:43:25.148+00:00","status":500,"error":"Internal Server Error","path":"/hotelAvailability/hotelSearch"}]
+	at feign.FeignException.serverErrorStatus(FeignException.java:281) ~[feign-core-13.5.jar:?]
+	at feign.FeignException.errorStatus(FeignException.java:226) ~[feign-core-13.5.jar:?]
+	at feign.FeignException.errorStatus(FeignException.java:213) ~[feign-core-13.5.jar:?]
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:103) ~[feign-core-13.5.jar:?]
+	at feign.InvocationContext.decodeError(InvocationContext.java:133) ~[feign-core-13.5.jar:?]
+	at feign.InvocationContext.proceed(InvocationContext.java:80) ~[feign-core-13.5.jar:?]
+	at feign.ResponseHandler.handleResponse(ResponseHandler.java:69) ~[feign-core-13.5.jar:?]
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:109) ~[feign-core-13.5.jar:?]
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:53) ~[feign-core-13.5.jar:?]
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:104) ~[feign-core-13.5.jar:?]
+	at jdk.proxy4/jdk.proxy4.$Proxy136.findAvailableHotelsWithRooms(Unknown Source) ~[?:?]
+	at com.ibsplc.hotelapp.controller.HotelappController.searchHotels(HotelappController.java:53) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:45) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-28 15:56:28.398	severity:INFO 	span:[,,]	pid: 	thread:[(103)-127.0.0.1]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown initiated...
+time:2025-04-28 15:56:28.405	severity:INFO 	span:[,,]	pid: 	thread:[(103)-127.0.0.1]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown completed.
+time:2025-04-29 12:47:22.502	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HotelappApplicationTests                	host:localhost	message:Starting HotelappApplicationTests using Java 17.0.2 with PID 25308 (started by 207554 in C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp)
+time:2025-04-29 12:47:22.515	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HotelappApplicationTests                	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-29 12:47:24.371	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Starting...
+time:2025-04-29 12:47:24.554	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HikariPool                              	host:localhost	message:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1c788d08
+time:2025-04-29 12:47:24.556	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Start completed.
+time:2025-04-29 12:47:24.582	severity:WARN 	span:[,,]	pid: 	thread:[           main]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-29 12:47:25.672	severity:WARN 	span:[,,]	pid: 	thread:[           main]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-29 12:47:26.904	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HotelappApplicationTests                	host:localhost	message:Started HotelappApplicationTests in 4.803 seconds (process running for 6.071)
+time:2025-04-29 12:47:27.478	severity:INFO 	span:[,,]	pid: 	thread:[ionShutdownHook]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown initiated...
+time:2025-04-29 12:47:27.487	severity:INFO 	span:[,,]	pid: 	thread:[ionShutdownHook]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown completed.
+time:2025-04-29 12:47:49.426	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HotelappApplicationTests                	host:localhost	message:Starting HotelappApplicationTests using Java 17.0.2 with PID 26368 (started by 207554 in C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp)
+time:2025-04-29 12:47:49.439	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HotelappApplicationTests                	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-29 12:47:51.405	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Starting...
+time:2025-04-29 12:47:51.587	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HikariPool                              	host:localhost	message:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@275902e1
+time:2025-04-29 12:47:51.589	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Start completed.
+time:2025-04-29 12:47:51.617	severity:WARN 	span:[,,]	pid: 	thread:[           main]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-29 12:47:52.746	severity:WARN 	span:[,,]	pid: 	thread:[           main]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-29 12:47:54.035	severity:INFO 	span:[,,]	pid: 	thread:[           main]	class:HotelappApplicationTests                	host:localhost	message:Started HotelappApplicationTests in 5.079 seconds (process running for 6.437)
+time:2025-04-29 12:47:54.561	severity:INFO 	span:[,,]	pid: 	thread:[ionShutdownHook]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown initiated...
+time:2025-04-29 12:47:54.567	severity:INFO 	span:[,,]	pid: 	thread:[ionShutdownHook]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown completed.
+time:2025-04-29 12:48:06.215	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Starting HotelappApplication using Java 17.0.2 with PID 21032 (C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp\target\classes started by 207554 in C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp)
+time:2025-04-29 12:48:06.221	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-29 12:48:07.571	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Starting...
+time:2025-04-29 12:48:07.697	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariPool                              	host:localhost	message:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2241c7d0
+time:2025-04-29 12:48:07.698	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Start completed.
+time:2025-04-29 12:48:07.723	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-29 12:48:08.466	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-29 12:48:08.497	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:OptionalLiveReloadServer                	host:localhost	message:Unable to start LiveReload server
+time:2025-04-29 12:48:09.338	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Started HotelappApplication in 3.51 seconds (process running for 4.329)
+time:2025-04-29 12:48:53.904	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Starting HotelappApplication using Java 17.0.2 with PID 24880 (C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp\target\classes started by 207554 in C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp)
+time:2025-04-29 12:48:53.911	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-29 12:48:55.415	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Starting...
+time:2025-04-29 12:48:55.567	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariPool                              	host:localhost	message:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@379807f5
+time:2025-04-29 12:48:55.569	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Start completed.
+time:2025-04-29 12:48:55.597	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-29 12:48:56.440	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-29 12:48:56.479	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:OptionalLiveReloadServer                	host:localhost	message:Unable to start LiveReload server
+time:2025-04-29 12:48:57.197	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:ConfigServletWebServerApplicationContext	host:localhost	message:Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+time:2025-04-29 12:48:57.201	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown initiated...
+time:2025-04-29 12:48:57.204	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown completed.
+time:2025-04-29 12:48:57.231	severity:ERROR	span:[,,]	pid: 	thread:[  restartedMain]	class:LoggingFailureAnalysisReporter          	host:localhost	message:
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8083 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8083 or configure this application to listen on another port.
+
+time:2025-04-29 12:50:58.749	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-1]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown initiated...
+time:2025-04-29 12:50:58.754	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-1]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown completed.
+time:2025-04-29 12:50:58.985	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Starting HotelappApplication using Java 17.0.2 with PID 21032 (C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp\target\classes started by 207554 in C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp)
+time:2025-04-29 12:50:58.986	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-29 12:50:59.251	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Starting...
+time:2025-04-29 12:50:59.320	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariPool                              	host:localhost	message:HikariPool-2 - Added connection org.postgresql.jdbc.PgConnection@41a9d75e
+time:2025-04-29 12:50:59.320	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Start completed.
+time:2025-04-29 12:50:59.327	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-29 12:50:59.424	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-29 12:50:59.434	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:OptionalLiveReloadServer                	host:localhost	message:Unable to start LiveReload server
+time:2025-04-29 12:50:59.981	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Started HotelappApplication in 1.158 seconds (process running for 174.972)
+time:2025-04-29 12:51:04.355	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-7]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Shutdown initiated...
+time:2025-04-29 12:51:04.359	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-7]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Shutdown completed.
+time:2025-04-29 12:51:06.784	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Starting HotelappApplication using Java 17.0.2 with PID 21032 (C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp\target\classes started by 207554 in C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp)
+time:2025-04-29 12:51:06.784	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-29 12:51:07.145	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-3 - Starting...
+time:2025-04-29 12:51:07.340	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariPool                              	host:localhost	message:HikariPool-3 - Added connection org.postgresql.jdbc.PgConnection@2357e771
+time:2025-04-29 12:51:07.340	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-3 - Start completed.
+time:2025-04-29 12:51:07.349	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-29 12:51:07.462	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-29 12:51:07.477	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:OptionalLiveReloadServer                	host:localhost	message:Unable to start LiveReload server
+time:2025-04-29 12:51:07.980	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Started HotelappApplication in 1.437 seconds (process running for 182.971)
+time:2025-04-29 13:32:17.007	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Received chat request: Find hotels in kochi from 05-01-2025 to 06-01-2025, guestId: null
+time:2025-04-29 13:32:17.010	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Searching hotels in kochi from 05-01-2025 to 06-01-2025
+time:2025-04-29 13:32:17.010	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Searching hotels in KOCHI from 05-01-2025 to 06-01-2025
+time:2025-04-29 13:32:17.336	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Formatting response for 2 hotels
+time:2025-04-29 13:36:40.247	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Received chat request: Register guest name anna shibu email annashibu.2000@gmail.com phone 8921268260, guestId: null
+time:2025-04-29 13:36:40.248	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Processing registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 13:36:40.248	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Received guest registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 13:36:40.348	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists
+time:2025-04-29 13:36:40.349	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists with ID: 1
+time:2025-04-29 13:40:41.190	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel grand palace room deluxe in kochi from 05-01-2025 to 05-02-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 1, guestId: null
+time:2025-04-29 13:40:41.193	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: grand palace in city: kochi
+time:2025-04-29 13:40:41.193	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: GRAND PALACE in city: KOCHI
+time:2025-04-29 13:40:41.767	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelappController                      	host:localhost	message:Reservation created successfully for hotel: GRAND PALACE in city: KOCHI
+time:2025-04-29 13:40:41.768	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Booking successful for hotel: grand palace, reservation ID: 47
+time:2025-04-29 13:47:57.423	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Received chat request: Register guest name anna thomas email anna@egs.com phone 7788899448, guestId: null
+time:2025-04-29 13:47:57.423	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Processing registration request for email: anna@egs.com
+time:2025-04-29 13:47:57.423	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelappController                      	host:localhost	message:Received guest registration request for email: anna@egs.com
+time:2025-04-29 13:47:57.466	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelappController                      	host:localhost	message:Guest registered successfully with email: anna@egs.com
+time:2025-04-29 13:47:57.467	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Guest registered successfully with ID: 40
+time:2025-04-29 13:51:56.948	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel sunset inn room suite in kochi from 05-01-2025 to 05-03-2025 email anna@egs.com phone 7788899448 adults 1 children 0, guestId: null
+time:2025-04-29 13:51:56.949	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: sunset in city: kochi
+time:2025-04-29 13:51:56.949	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: SUNSET in city: KOCHI
+time:2025-04-29 13:51:56.972	severity:WARN 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelappController                      	host:localhost	message:Requested hotel 'SUNSET' or room 'SUITE' is not available in city 'KOCHI' for dates 05-01-2025 to 05-03-2025
+time:2025-04-29 13:51:56.973	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelChatController                     	host:localhost	message:Error processing chat request: Book hotel sunset inn room suite in kochi from 05-01-2025 to 05-03-2025 email anna@egs.com phone 7788899448 adults 1 children 0
+org.springframework.web.server.ResponseStatusException: 400 BAD_REQUEST "Hotel or room not available for the selected dates."
+	at com.ibsplc.hotelapp.controller.HotelappController.bookHotel(HotelappController.java:111) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:72) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-29 13:54:03.926	severity:INFO 	span:[,,]	pid: 	thread:[io-8083-exec-10]	class:HotelChatController                     	host:localhost	message:Received chat request: Register guest name anna shibu email annashibu.2000@gmail.com phone 8921268260, guestId: null
+time:2025-04-29 13:54:03.926	severity:INFO 	span:[,,]	pid: 	thread:[io-8083-exec-10]	class:HotelChatController                     	host:localhost	message:Processing registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 13:54:03.926	severity:INFO 	span:[,,]	pid: 	thread:[io-8083-exec-10]	class:HotelappController                      	host:localhost	message:Received guest registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 13:54:03.942	severity:INFO 	span:[,,]	pid: 	thread:[io-8083-exec-10]	class:HotelappController                      	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists
+time:2025-04-29 13:54:03.942	severity:INFO 	span:[,,]	pid: 	thread:[io-8083-exec-10]	class:HotelChatController                     	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists with ID: 1
+time:2025-04-29 13:55:47.145	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-2]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel sunset inn room deluxe in kochi from 05-03-2025 to 05-04-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0, guestId: null
+time:2025-04-29 13:55:47.146	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-2]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: sunset in city: kochi
+time:2025-04-29 13:55:47.146	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-2]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: SUNSET in city: KOCHI
+time:2025-04-29 13:55:47.165	severity:WARN 	span:[,,]	pid: 	thread:[nio-8083-exec-2]	class:HotelappController                      	host:localhost	message:Requested hotel 'SUNSET' or room 'DELUXE' is not available in city 'KOCHI' for dates 05-03-2025 to 05-04-2025
+time:2025-04-29 13:55:47.166	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-2]	class:HotelChatController                     	host:localhost	message:Error processing chat request: Book hotel sunset inn room deluxe in kochi from 05-03-2025 to 05-04-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0
+org.springframework.web.server.ResponseStatusException: 400 BAD_REQUEST "Hotel or room not available for the selected dates."
+	at com.ibsplc.hotelapp.controller.HotelappController.bookHotel(HotelappController.java:111) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:72) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-29 13:58:42.139	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel sunset inn room deluxe in kochi from 05-03-2025 to 05-04-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0, guestId: null
+time:2025-04-29 13:58:42.140	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: sunset in city: kochi
+time:2025-04-29 13:58:42.140	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: SUNSET in city: KOCHI
+time:2025-04-29 13:58:42.173	severity:WARN 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Requested hotel 'SUNSET' or room 'DELUXE' is not available in city 'KOCHI' for dates 05-03-2025 to 05-04-2025
+time:2025-04-29 13:58:42.173	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Error processing chat request: Book hotel sunset inn room deluxe in kochi from 05-03-2025 to 05-04-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0
+org.springframework.web.server.ResponseStatusException: 400 BAD_REQUEST "Hotel or room not available for the selected dates."
+	at com.ibsplc.hotelapp.controller.HotelappController.bookHotel(HotelappController.java:111) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:72) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-29 14:00:18.225	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelChatController                     	host:localhost	message:Received chat request: Register guest name sunset inn anna email annashibu.2000@gmail.com phone 8921268260, guestId: null
+time:2025-04-29 14:00:18.225	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelChatController                     	host:localhost	message:Processing registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 14:00:18.225	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelappController                      	host:localhost	message:Received guest registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 14:00:18.231	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelappController                      	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists
+time:2025-04-29 14:00:18.231	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelChatController                     	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists with ID: 1
+time:2025-04-29 14:01:45.140	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-6]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel sunset inn room standard in kochi from 05-02-2025 to 05-03-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0, guestId: null
+time:2025-04-29 14:01:45.140	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-6]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: sunset in city: kochi
+time:2025-04-29 14:01:45.140	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-6]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: SUNSET in city: KOCHI
+time:2025-04-29 14:01:45.190	severity:WARN 	span:[,,]	pid: 	thread:[nio-8083-exec-6]	class:HotelappController                      	host:localhost	message:Requested hotel 'SUNSET' or room 'STANDARD' is not available in city 'KOCHI' for dates 05-02-2025 to 05-03-2025
+time:2025-04-29 14:01:45.190	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-6]	class:HotelChatController                     	host:localhost	message:Error processing chat request: Book hotel sunset inn room standard in kochi from 05-02-2025 to 05-03-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0
+org.springframework.web.server.ResponseStatusException: 400 BAD_REQUEST "Hotel or room not available for the selected dates."
+	at com.ibsplc.hotelapp.controller.HotelappController.bookHotel(HotelappController.java:111) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:72) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-29 14:02:13.659	severity:INFO 	span:[,,]	pid: 	thread:[n(76)-127.0.0.1]	class:HikariDataSource                        	host:localhost	message:HikariPool-3 - Shutdown initiated...
+time:2025-04-29 14:02:13.662	severity:INFO 	span:[,,]	pid: 	thread:[n(76)-127.0.0.1]	class:HikariDataSource                        	host:localhost	message:HikariPool-3 - Shutdown completed.
+time:2025-04-29 14:02:59.641	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Starting HotelappApplication using Java 17.0.2 with PID 3324 (C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp\target\classes started by 207554 in C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp)
+time:2025-04-29 14:02:59.653	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-29 14:03:01.369	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Starting...
+time:2025-04-29 14:03:01.508	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariPool                              	host:localhost	message:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6766071e
+time:2025-04-29 14:03:01.510	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Start completed.
+time:2025-04-29 14:03:01.537	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-29 14:03:02.577	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-29 14:03:02.611	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:OptionalLiveReloadServer                	host:localhost	message:Unable to start LiveReload server
+time:2025-04-29 14:03:03.516	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Started HotelappApplication in 4.343 seconds (process running for 5.366)
+time:2025-04-29 14:06:59.623	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Received chat request: Register guest name anna shibu email annashibu.2000@gmail.com phone 8921268260, guestId: null
+time:2025-04-29 14:06:59.626	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Processing registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 14:06:59.627	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Received guest registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 14:06:59.846	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists
+time:2025-04-29 14:06:59.861	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists with ID: 1
+time:2025-04-29 14:08:30.462	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel sunset inn room standard in kochi from 05-02-2025 to 05-03-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0, guestId: null
+time:2025-04-29 14:09:37.994	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: sunset in city: kochi
+time:2025-04-29 14:09:55.424	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: SUNSET in city: KOCHI
+time:2025-04-29 14:09:55.591	severity:WARN 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelappController                      	host:localhost	message:Requested hotel 'SUNSET' or room 'STANDARD' is not available in city 'KOCHI' for dates 05-02-2025 to 05-03-2025
+time:2025-04-29 14:09:55.593	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelChatController                     	host:localhost	message:Error processing chat request: Book hotel sunset inn room standard in kochi from 05-02-2025 to 05-03-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0
+org.springframework.web.server.ResponseStatusException: 400 BAD_REQUEST "Hotel or room not available for the selected dates."
+	at com.ibsplc.hotelapp.controller.HotelappController.bookHotel(HotelappController.java:111) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:72) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-29 14:12:09.044	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel sunset inn room standard in kochi from 05-02-2025 to 05-03-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0, guestId: null
+time:2025-04-29 14:13:11.045	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: sunset in city: kochi
+time:2025-04-29 14:13:13.383	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: SUNSET in city: KOCHI
+time:2025-04-29 14:13:13.411	severity:WARN 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Requested hotel 'SUNSET' or room 'STANDARD' is not available in city 'KOCHI' for dates 05-02-2025 to 05-03-2025
+time:2025-04-29 14:13:13.411	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Error processing chat request: Book hotel sunset inn room standard in kochi from 05-02-2025 to 05-03-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0
+org.springframework.web.server.ResponseStatusException: 400 BAD_REQUEST "Hotel or room not available for the selected dates."
+	at com.ibsplc.hotelapp.controller.HotelappController.bookHotel(HotelappController.java:111) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:72) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-29 14:15:31.066	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-1]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown initiated...
+time:2025-04-29 14:15:31.077	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-1]	class:HikariDataSource                        	host:localhost	message:HikariPool-1 - Shutdown completed.
+time:2025-04-29 14:15:31.372	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Starting HotelappApplication using Java 17.0.2 with PID 3324 (C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp\target\classes started by 207554 in C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp)
+time:2025-04-29 14:15:31.373	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-29 14:15:31.740	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Starting...
+time:2025-04-29 14:15:31.812	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariPool                              	host:localhost	message:HikariPool-2 - Added connection org.postgresql.jdbc.PgConnection@113216a7
+time:2025-04-29 14:15:31.812	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Start completed.
+time:2025-04-29 14:15:31.820	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-29 14:15:32.751	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-29 14:15:32.766	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:OptionalLiveReloadServer                	host:localhost	message:Unable to start LiveReload server
+time:2025-04-29 14:15:33.257	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Started HotelappApplication in 2.106 seconds (process running for 755.106)
+time:2025-04-29 14:16:12.640	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel sunset inn room standard in kochi from 05-02-2025 to 05-03-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0, guestId: null
+time:2025-04-29 14:16:45.023	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: sunset in city: kochi
+time:2025-04-29 14:17:12.636	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: SUNSET in city: KOCHI
+time:2025-04-29 14:17:12.681	severity:WARN 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Requested hotel 'SUNSET' or room 'STANDARD' is not available in city 'KOCHI' for dates 05-02-2025 to 05-03-2025
+time:2025-04-29 14:17:12.682	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Error processing chat request: Book hotel sunset inn room standard in kochi from 05-02-2025 to 05-03-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0
+org.springframework.web.server.ResponseStatusException: 400 BAD_REQUEST "Hotel or room not available for the selected dates."
+	at com.ibsplc.hotelapp.controller.HotelappController.bookHotel(HotelappController.java:111) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:72) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-29 14:17:58.089	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-7]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Shutdown initiated...
+time:2025-04-29 14:17:58.094	severity:INFO 	span:[,,]	pid: 	thread:[       Thread-7]	class:HikariDataSource                        	host:localhost	message:HikariPool-2 - Shutdown completed.
+time:2025-04-29 14:17:58.399	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Starting HotelappApplication using Java 17.0.2 with PID 3324 (C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp\target\classes started by 207554 in C:\Users\207554\Downloads\workspace-spring-tool-suite-4-4.25.0.RELEASE\workspace-spring-tool-suite-4-4.25.0.RELEASE\hotelapp)
+time:2025-04-29 14:17:58.399	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:No active profile set, falling back to 1 default profile: "default"
+time:2025-04-29 14:17:58.738	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-3 - Starting...
+time:2025-04-29 14:17:58.810	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariPool                              	host:localhost	message:HikariPool-3 - Added connection org.postgresql.jdbc.PgConnection@2e6c721c
+time:2025-04-29 14:17:58.810	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HikariDataSource                        	host:localhost	message:HikariPool-3 - Start completed.
+time:2025-04-29 14:17:58.818	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:deprecation                             	host:localhost	message:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+time:2025-04-29 14:17:59.074	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:JpaBaseConfiguration$JpaWebConfiguration	host:localhost	message:spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+time:2025-04-29 14:17:59.092	severity:WARN 	span:[,,]	pid: 	thread:[  restartedMain]	class:OptionalLiveReloadServer                	host:localhost	message:Unable to start LiveReload server
+time:2025-04-29 14:17:59.609	severity:INFO 	span:[,,]	pid: 	thread:[  restartedMain]	class:HotelappApplication                     	host:localhost	message:Started HotelappApplication in 1.444 seconds (process running for 901.459)
+time:2025-04-29 14:18:47.001	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel sunset inn room standard in kochi from 05-02-2025 to 05-03-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0, guestId: null
+time:2025-04-29 14:19:10.420	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: sunset in city: kochi
+time:2025-04-29 14:20:41.450	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: SUNSET in city: KOCHI
+time:2025-04-29 14:20:41.510	severity:WARN 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Requested hotel 'SUNSET' or room 'STANDARD' is not available in city 'KOCHI' for dates 05-02-2025 to 05-03-2025
+time:2025-04-29 14:20:41.510	severity:ERROR	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Error processing chat request: Book hotel sunset inn room standard in kochi from 05-02-2025 to 05-03-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 0
+org.springframework.web.server.ResponseStatusException: 400 BAD_REQUEST "Hotel or room not available for the selected dates."
+	at com.ibsplc.hotelapp.controller.HotelappController.bookHotel(HotelappController.java:111) ~[classes/:?]
+	at com.ibsplc.hotelapp.controller.HotelChatController.chat(HotelChatController.java:72) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) [spring-webmvc-6.2.3.jar:6.2.3]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) [spring-webmvc-6.2.3.jar:6.2.3]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) [tomcat-embed-core-10.1.36.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-embed-websocket-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) [spring-web-6.2.3.jar:6.2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-embed-core-10.1.36.jar:10.1.36]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+time:2025-04-29 14:22:26.576	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-2]	class:HotelChatController                     	host:localhost	message:Received chat request: Register guest name anna shibu email annashibu.2000@gmail.com phone 8921268260, guestId: null
+time:2025-04-29 14:22:34.105	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-2]	class:HotelChatController                     	host:localhost	message:Processing registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 14:22:34.106	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-2]	class:HotelappController                      	host:localhost	message:Received guest registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 14:22:34.114	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-2]	class:HotelappController                      	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists
+time:2025-04-29 14:22:34.115	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-2]	class:HotelChatController                     	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists with ID: 1
+time:2025-04-29 14:24:08.976	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel grand palace room suite in kochi from 05-05-2025 to 05-06-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 1, guestId: null
+time:2025-04-29 14:24:37.826	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: grand palace in city: kochi
+time:2025-04-29 14:24:41.142	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: GRAND PALACE in city: KOCHI
+time:2025-04-29 14:24:41.375	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelappController                      	host:localhost	message:Reservation created successfully for hotel: GRAND PALACE in city: KOCHI
+time:2025-04-29 14:24:41.375	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-4]	class:HotelChatController                     	host:localhost	message:Booking successful for hotel: grand palace, reservation ID: 48
+time:2025-04-29 14:25:30.501	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel grand palace room suite in kochi from 05-05-2025 to 05-06-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 1, guestId: null
+time:2025-04-29 14:25:34.863	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: grand palace in city: kochi
+time:2025-04-29 14:25:36.637	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: GRAND PALACE in city: KOCHI
+time:2025-04-29 14:25:36.720	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelappController                      	host:localhost	message:Reservation created successfully for hotel: GRAND PALACE in city: KOCHI
+time:2025-04-29 14:25:36.720	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Booking successful for hotel: grand palace, reservation ID: 49
+time:2025-04-29 14:26:56.700	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Received chat request: Register guest name anna anna email annashibu.2000@gmail.com phone 8921268260, guestId: null
+time:2025-04-29 14:27:01.281	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Processing registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 14:27:01.281	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelappController                      	host:localhost	message:Received guest registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 14:27:01.286	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelappController                      	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists
+time:2025-04-29 14:27:01.286	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists with ID: 1
+time:2025-04-29 14:28:15.955	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel blue ray hotel room deluxe in trivandrum from 05-02-2025 to 05-03-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 1, guestId: null
+time:2025-04-29 14:28:37.941	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: blue ray hotel in city: trivandrum
+time:2025-04-29 14:28:44.454	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: BLUE RAY HOTEL in city: TRIVANDRUM
+time:2025-04-29 14:28:44.565	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelappController                      	host:localhost	message:Reservation created successfully for hotel: BLUE RAY HOTEL in city: TRIVANDRUM
+time:2025-04-29 14:28:44.565	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelChatController                     	host:localhost	message:Booking successful for hotel: blue ray hotel, reservation ID: 50
+time:2025-04-29 14:30:08.129	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Received chat request: Register guest name anna shibu email annashibu.2000@gmail.com phone 8921268260, guestId: null
+time:2025-04-29 14:30:14.659	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Processing registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 14:30:14.659	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Received guest registration request for email: annashibu.2000@gmail.com
+time:2025-04-29 14:30:14.667	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists
+time:2025-04-29 14:30:14.668	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Guest with email annashibu.2000@gmail.com already exists with ID: 1
+time:2025-04-29 14:32:02.669	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Received chat request: Book hotel sunset hotel room deluxe in kochi from 05-04-2025 to 05-05-2025 email annashibu.2000@gmail.com phone 8921268260 adults 1 children 1, guestId: null
+time:2025-04-29 14:32:07.005	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Processing booking request for hotel: sunset hotel in city: kochi
+time:2025-04-29 14:32:08.610	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Received booking request for hotel: SUNSET HOTEL in city: KOCHI
+time:2025-04-29 14:32:08.721	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Reservation created successfully for hotel: SUNSET HOTEL in city: KOCHI
+time:2025-04-29 14:32:08.721	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Booking successful for hotel: sunset hotel, reservation ID: 51
+time:2025-04-29 14:35:16.864	severity:WARN 	span:[,,]	pid: 	thread:[l-3 housekeeper]	class:HikariPool                              	host:localhost	message:HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=1m17s697ms993µs300ns).
+time:2025-04-29 14:42:33.849	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Received chat request: Register guest name passenger details is passengername: anu p, age:21, phonenumber: 7473859573, emailaddress: anu687@gmail.com, dateofbirth:2024-03-20, passportnumber: 12348994 annashibu.2000@gmail.com email annashibu.2000@gmail.com phone 8921268260, guestId: null
+time:2025-04-29 14:42:37.877	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Processing registration request for email: anu687@gmail.com
+time:2025-04-29 14:42:37.877	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelappController                      	host:localhost	message:Received guest registration request for email: anu687@gmail.com
+time:2025-04-29 14:42:37.951	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelappController                      	host:localhost	message:Guest registered successfully with email: anu687@gmail.com
+time:2025-04-29 14:42:37.951	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-5]	class:HotelChatController                     	host:localhost	message:Guest registered successfully with ID: 41
+time:2025-04-29 14:43:49.024	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Received chat request: View my reservations email annashibu.2000@gmail.com phone 8921268260, guestId: null
+time:2025-04-29 14:43:57.092	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Fetching reservations for email: annashibu.2000@gmail.com and phone: 8921268260
+time:2025-04-29 14:43:57.285	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelappController                      	host:localhost	message:Received request to fetch reservations for email: annashibu.2000@gmail.com and phone: 8921268260
+time:2025-04-29 14:43:57.865	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelappController                      	host:localhost	message:Successfully retrieved 23 reservations for email: annashibu.2000@gmail.com and phone: 8921268260
+time:2025-04-29 14:44:02.299	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-7]	class:HotelChatController                     	host:localhost	message:Found 23 reservations for email: annashibu.2000@gmail.com and phone: 8921268260
+time:2025-04-29 15:08:33.538	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelChatController                     	host:localhost	message:Received chat request: Find hotels in 05-09-2025 from 05-09-2025 to 05-10-2025, guestId: null
+time:2025-04-29 15:08:41.432	severity:WARN 	span:[,,]	pid: 	thread:[nio-8083-exec-9]	class:HotelChatController                     	host:localhost	message:Invalid search request: missing city or dates in message: Find hotels in 05-09-2025 from 05-09-2025 to 05-10-2025
+time:2025-04-29 15:09:47.568	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Received chat request: Find hotels in trivandrum from 05-09-2025 to 05-10-2025, guestId: null
+time:2025-04-29 15:09:52.390	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Searching hotels in trivandrum from 05-09-2025 to 05-10-2025
+time:2025-04-29 15:09:52.391	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelappController                      	host:localhost	message:Searching hotels in TRIVANDRUM from 05-09-2025 to 05-10-2025
+time:2025-04-29 15:09:52.475	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-1]	class:HotelChatController                     	host:localhost	message:Formatting response for 2 hotels
+time:2025-04-29 15:11:02.726	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Received chat request: View my reservations email annashibu.2000@gmail.com phone 8921268260, guestId: null
+time:2025-04-29 15:11:13.153	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Fetching reservations for email: annashibu.2000@gmail.com and phone: 8921268260
+time:2025-04-29 15:11:13.154	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Received request to fetch reservations for email: annashibu.2000@gmail.com and phone: 8921268260
+time:2025-04-29 15:11:13.466	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelappController                      	host:localhost	message:Successfully retrieved 23 reservations for email: annashibu.2000@gmail.com and phone: 8921268260
+time:2025-04-29 15:11:13.467	severity:INFO 	span:[,,]	pid: 	thread:[nio-8083-exec-3]	class:HotelChatController                     	host:localhost	message:Found 23 reservations for email: annashibu.2000@gmail.com and phone: 8921268260
